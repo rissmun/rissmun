@@ -1,16 +1,18 @@
-### Hi there 👋
+## rissmun-dev
 
-<!--
-**rissmun/rissmun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Мой стек
+- ![](https://skillicons.dev/icons?i=js,ts,html,css,go,react,php&theme=dark)
+- Так же занимаюсь разработкой ботов для Telegram и Discord
+  
+### Связь со мной: 
+[Discord] "rissmun"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```sudo rm -rf /```
+```
+Девиз;
+
+root = exports ? this
+
+root.program_me = ->
+ console.log 'program me'```
