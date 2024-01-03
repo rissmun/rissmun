@@ -6,13 +6,3 @@
   
 ### Связь со мной: 
 [Discord] "rissmun"
-
-
-```sudo rm -rf /```
-```
-Девиз;
-
-root = exports ? this
-
-root.program_me = ->
- console.log 'program me'```
