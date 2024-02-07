@@ -1,8 +1,8 @@
 ## rissmun-dev
 
-# Мой стек
+# My knows
 - ![](https://skillicons.dev/icons?i=js,ts,html,css,go,react,php,coffeescript,c,cs,cpp,docker,django,electron,fastapi,flask,neovim,py,rust,sqlite,vscode,visualstudio&theme=dark)
-- Так же занимаюсь разработкой ботов для Telegram и Discord
+- And i am develop discord and telegram bots!
   
-### Связь со мной: 
-[Discord] "rissmun"
+### Contact with me: 
+[Discord] "rissmun.js"
